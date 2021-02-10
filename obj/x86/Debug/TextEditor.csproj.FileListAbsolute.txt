@@ -1,0 +1,92 @@
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day One\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day One\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day One\TextEditor\TextEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day One\TextEditor\TextEditor\obj\x86\Debug\MainWindow.baml
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day One\TextEditor\TextEditor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day One\TextEditor\TextEditor\obj\x86\Debug\App.g.cs
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day One\TextEditor\TextEditor\obj\x86\Debug\TextEditor_MarkupCompile.cache
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day One\TextEditor\TextEditor\obj\x86\Debug\TextEditor.g.resources
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day One\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Properties.Resources.resources
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day One\TextEditor\TextEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day One\TextEditor\TextEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day One\TextEditor\TextEditor\obj\x86\Debug\TextEditor.exe
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day One\TextEditor\TextEditor\obj\x86\Debug\TextEditor.pdb
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day One\TextEditor\TextEditor\obj\x86\Debug\TextEditorToolBar.baml
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day One\TextEditor\TextEditor\obj\x86\Debug\TextEditorToolBar.g.cs
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day One\TextEditor\TextEditor\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day One\TextEditor\TextEditor\obj\x86\Debug\TextEditor_MarkupCompile.lref
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day One\TextEditor\TextEditor\obj\x86\Debug\TextEditorMenu.baml
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day One\TextEditor\TextEditor\obj\x86\Debug\TextEditorMenu.g.cs
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day Two\TextEditor\TextEditor\obj\x86\Debug\TextEditor.exe
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day Two\TextEditor\TextEditor\obj\x86\Debug\TextEditor.pdb
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day Two\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day Two\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day Two\TextEditor\TextEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day Two\TextEditor\TextEditor\obj\x86\Debug\TextEditorMenu.baml
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day Two\TextEditor\TextEditor\obj\x86\Debug\TextEditorToolBar.baml
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day Two\TextEditor\TextEditor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day Two\TextEditor\TextEditor\obj\x86\Debug\TextEditorMenu.g.cs
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day Two\TextEditor\TextEditor\obj\x86\Debug\TextEditorToolBar.g.cs
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day Two\TextEditor\TextEditor\obj\x86\Debug\App.g.cs
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day Two\TextEditor\TextEditor\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day Two\TextEditor\TextEditor\obj\x86\Debug\TextEditor_MarkupCompile.cache
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day Two\TextEditor\TextEditor\obj\x86\Debug\TextEditor_MarkupCompile.lref
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day Two\TextEditor\TextEditor\obj\x86\Debug\MainWindow.baml
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day Two\TextEditor\TextEditor\obj\x86\Debug\TextEditor.g.resources
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day Two\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Properties.Resources.resources
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day Two\TextEditor\TextEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mclarkson\Desktop\INFO3071\Week Ten\Day Two\TextEditor\TextEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\INFO5012\Prep\Code examples from Week Ten - Day Two\TextEditor\TextEditor\obj\x86\Debug\TextEditor.exe
+C:\INFO5012\Prep\Code examples from Week Ten - Day Two\TextEditor\TextEditor\obj\x86\Debug\TextEditor.pdb
+C:\INFO5012\Prep\Code examples from Week Ten - Day Two\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\INFO5012\Prep\Code examples from Week Ten - Day Two\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\INFO5012\Prep\Code examples from Week Ten - Day Two\TextEditor\TextEditor\obj\x86\Debug\TextEditorMenu.baml
+C:\INFO5012\Prep\Code examples from Week Ten - Day Two\TextEditor\TextEditor\obj\x86\Debug\TextEditorToolBar.baml
+C:\INFO5012\Prep\Code examples from Week Ten - Day Two\TextEditor\TextEditor\obj\x86\Debug\MainWindow.g.cs
+C:\INFO5012\Prep\Code examples from Week Ten - Day Two\TextEditor\TextEditor\obj\x86\Debug\TextEditorMenu.g.cs
+C:\INFO5012\Prep\Code examples from Week Ten - Day Two\TextEditor\TextEditor\obj\x86\Debug\TextEditorToolBar.g.cs
+C:\INFO5012\Prep\Code examples from Week Ten - Day Two\TextEditor\TextEditor\obj\x86\Debug\App.g.cs
+C:\INFO5012\Prep\Code examples from Week Ten - Day Two\TextEditor\TextEditor\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\INFO5012\Prep\Code examples from Week Ten - Day Two\TextEditor\TextEditor\obj\x86\Debug\TextEditor_MarkupCompile.cache
+C:\INFO5012\Prep\Code examples from Week Ten - Day Two\TextEditor\TextEditor\obj\x86\Debug\TextEditor_MarkupCompile.lref
+C:\INFO5012\Prep\Code examples from Week Ten - Day Two\TextEditor\TextEditor\obj\x86\Debug\MainWindow.baml
+C:\INFO5012\Prep\Code examples from Week Ten - Day Two\TextEditor\TextEditor\obj\x86\Debug\TextEditor.g.resources
+C:\INFO5012\Prep\Code examples from Week Ten - Day Two\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Properties.Resources.resources
+C:\INFO5012\Prep\Code examples from Week Ten - Day Two\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csproj.GenerateResource.Cache
+C:\INFO5012\Week10\TextEditor\TextEditor\obj\x86\Debug\TextEditor.exe
+C:\INFO5012\Week10\TextEditor\TextEditor\obj\x86\Debug\TextEditor.pdb
+C:\INFO5012\Week10\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\INFO5012\Week10\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\INFO5012\Week10\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csprojResolveAssemblyReference.cache
+C:\INFO5012\Week10\TextEditor\TextEditor\obj\x86\Debug\TextEditorMenu.baml
+C:\INFO5012\Week10\TextEditor\TextEditor\obj\x86\Debug\TextEditorToolBar.baml
+C:\INFO5012\Week10\TextEditor\TextEditor\obj\x86\Debug\MainWindow.g.cs
+C:\INFO5012\Week10\TextEditor\TextEditor\obj\x86\Debug\TextEditorMenu.g.cs
+C:\INFO5012\Week10\TextEditor\TextEditor\obj\x86\Debug\TextEditorToolBar.g.cs
+C:\INFO5012\Week10\TextEditor\TextEditor\obj\x86\Debug\App.g.cs
+C:\INFO5012\Week10\TextEditor\TextEditor\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\INFO5012\Week10\TextEditor\TextEditor\obj\x86\Debug\TextEditor_MarkupCompile.cache
+C:\INFO5012\Week10\TextEditor\TextEditor\obj\x86\Debug\TextEditor_MarkupCompile.lref
+C:\INFO5012\Week10\TextEditor\TextEditor\obj\x86\Debug\MainWindow.baml
+C:\INFO5012\Week10\TextEditor\TextEditor\obj\x86\Debug\TextEditor.g.resources
+C:\INFO5012\Week10\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Properties.Resources.resources
+C:\INFO5012\Week10\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csproj.GenerateResource.Cache
+C:\INFO5012\Week11\TextEditor\TextEditor\obj\x86\Debug\TextEditor.exe
+C:\INFO5012\Week11\TextEditor\TextEditor\obj\x86\Debug\TextEditor.pdb
+C:\INFO5012\Week11\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\INFO5012\Week11\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\INFO5012\Week11\TextEditor\TextEditor\obj\x86\Debug\TextEditorMenu.baml
+C:\INFO5012\Week11\TextEditor\TextEditor\obj\x86\Debug\TextEditorToolBar.baml
+C:\INFO5012\Week11\TextEditor\TextEditor\obj\x86\Debug\MainWindow.g.cs
+C:\INFO5012\Week11\TextEditor\TextEditor\obj\x86\Debug\TextEditorMenu.g.cs
+C:\INFO5012\Week11\TextEditor\TextEditor\obj\x86\Debug\TextEditorToolBar.g.cs
+C:\INFO5012\Week11\TextEditor\TextEditor\obj\x86\Debug\App.g.cs
+C:\INFO5012\Week11\TextEditor\TextEditor\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\INFO5012\Week11\TextEditor\TextEditor\obj\x86\Debug\TextEditor_MarkupCompile.cache
+C:\INFO5012\Week11\TextEditor\TextEditor\obj\x86\Debug\TextEditor_MarkupCompile.lref
+C:\INFO5012\Week11\TextEditor\TextEditor\obj\x86\Debug\MainWindow.baml
+C:\INFO5012\Week11\TextEditor\TextEditor\obj\x86\Debug\TextEditor.g.resources
+C:\INFO5012\Week11\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Properties.Resources.resources
+C:\INFO5012\Week11\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csproj.GenerateResource.Cache
+C:\INFO5012\Week11\TextEditor\TextEditor\obj\x86\Debug\PrintPreviewDialog.g.cs
+C:\INFO5012\Week11\TextEditor\TextEditor\obj\x86\Debug\PrintPreviewDialog.baml
